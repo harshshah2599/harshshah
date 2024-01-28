@@ -4,7 +4,7 @@
 <br />
 <br />
 <br />
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=blurred-machine" alt="blurred-machine" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshshah2599" alt="harshshah2599" /> </p>
 I'm currently pursuing my master's degree in Information Systems from Northeastern University and hold a bachelor's degree in Computer Science from University of Pune.
 <br>
 I am who is passionate about Data and intrigued with the science behind powerful data products. 🚀.
